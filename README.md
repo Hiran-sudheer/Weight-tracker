@@ -3,5 +3,5 @@
 Weight tracker using Vue JS and the composition API.
 
 
-Checkout live @ <a href="hs-weight-tracker.netlify.app"/>
+   <a href="https://hs-weight-tracker.netlify.app/"  />Wight-Tracker live</a>                      
 
